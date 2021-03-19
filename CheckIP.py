@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021/3/19 10:30
 # @Author  : AA8j
-# @FileName: CrawlFreeProxyIP.py
+# @FileName: CheckIP.py
 # @Software: PyCharm
 # @Blog    ：https://blog.csdn.net/qq_44874645
 import requests
